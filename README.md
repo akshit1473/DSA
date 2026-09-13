@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions & Data Structures in C++
+#  LeetCode Solutions & Data Structures in C++
 
 A structured repository tracking my solutions to LeetCode problems, focusing on algorithmic efficiency, edge-case security (handling integer overflows, boundary bugs), and optimized pointer logic.
 
