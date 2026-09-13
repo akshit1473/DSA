@@ -1,11 +1,19 @@
-## Solved Problems
+# 🚀 LeetCode Solutions & Data Structures in C++
 
-| # | Problem Title | Pattern / Approach | Time | Space | Solution |
-|---|---|---|---|---|---|
-| 0392 | Is Subsequence | Two Pointers (Two Strings) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [C++](./Easy/0392-is-subsequence/solution.cpp) |
-| 0125 | Valid Palindrome | Two Pointers (Opposite Ends) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [C++](./Easy/0125-valid-palindrome/solution.cpp) |
-| 0283 | Move Zeroes | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [C++](./Easy/0283-move-zeroes/solution.cpp) |
-| 0026 | Remove Duplicates from Sorted Array | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [C++](./Easy/0026-remove-duplicates-from-sorted-array/solution.cpp) |
-| 0027 | Remove Element | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [C++](./Easy/0027-remove-element/solution.cpp) |
-| 1929 | Concatenation of Array | Array Iteration / `vector::insert` | $\mathcal{O}(N)$ | $\mathcal{O}(N)$ | [C++](./Easy/1929-concatenation-of-array/solution.cpp) |
-| 2235 | Add Two Integers | Basic Arithmetic | $\mathcal{O}(1)$ | $\mathcal{O}(1)$ | [C++](./Easy/2235-add-two-integers/solution.cpp) |
+A structured repository tracking my solutions to LeetCode problems, focusing on algorithmic efficiency, edge-case security (handling integer overflows, boundary bugs), and optimized pointer logic.
+
+---
+
+## 📊 Recent Submissions Log
+
+| # | Problem Title | Solution Link | Category / Topic | Status |
+| :-: | :--- | :-: | :--- | :-: |
+| 01 | **Palindrome Number** | [Solution](./solutions/PalindromeNumber.cpp) | Math / Two-Pointer Logic | Accepted |
+| 02 | **Is Subsequence** | [Solution](./solutions/IsSubsequence.cpp) | Two-Pointers / String | Accepted |
+| 03 | **Valid Palindrome** | [Solution](./solutions/ValidPalindrome.cpp) | String Manipulation | Accepted |
+| 04 | **Move Zeroes** | [Solution](./solutions/MoveZeroes.cpp) | Array / In-Place Operations | Accepted |
+| 05 | **Remove Duplicates from Sorted Array** | [Solution](./solutions/RemoveDuplicates.cpp) | Array / Two-Pointers | Accepted |
+| 06 | **Remove Element** | [Solution](./solutions/RemoveElement.cpp) | Array / In-Place Swap | Accepted |
+| 07 | **Concatenation of Array** | [Solution](./solutions/ConcatenationOfArray.cpp) | Array Allocation | Accepted |
+| 08 | **Add Two Integers** | [Solution](./solutions/AddTwoIntegers.cpp) | Basic Arithmetic | Accepted |
+
