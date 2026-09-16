@@ -2,21 +2,17 @@
 
 
 ## 📊 Recent Submissions Log
+## Solved Problems
 
-| # | Problem Title | Solution Link | Category / Topic | Status |
-| :-: | :--- | :-: | :--- | :-: |
-| 01 | **Valid Palindrome II** (#680) | [Solution](./solutions/ValidPalindromeII.cpp) | Two-Pointers / Branching Logic | Accepted |
-| 02 | **Binary Search** (#704) | [Solution](./solutions/BinarySearch.cpp) | Binary Search / Divide & Conquer | Accepted |
-| 03 | **Two Sum II** (#167) | [Solution](./solutions/TwoSumII.cpp) | Two-Pointers / Sorted Array | Accepted |
-| 04 | **Plus One** (#66) | [Solution](./solutions/PlusOne.cpp) | Array / Arbitrary Precision | Accepted |
-| 05 | **Palindrome Number** (#9) | [Solution](./solutions/PalindromeNumber.cpp) | Math / Two-Pointer Logic | Accepted |
-| 06 | **Is Subsequence** (#392) | [Solution](./solutions/IsSubsequence.cpp) | Two-Pointers / String | Accepted |
-| 07 | **Valid Palindrome** (#125) | [Solution](./solutions/ValidPalindrome.cpp) | String Manipulation | Accepted |
-| 08 | **Move Zeroes** (#283) | [Solution](./solutions/MoveZeroes.cpp) | Array / In-Place Operations | Accepted |
-| 09 | **Remove Duplicates from Sorted Array** (#26) | [Solution](./solutions/RemoveDuplicates.cpp) | Array / Two-Pointers | Accepted |
-| 10 | **Remove Element** (#27) | [Solution](./solutions/RemoveElement.cpp) | Array / In-Place Swap | Accepted |
-| 11 | **Concatenation of Array** (#1929) | [Solution](./solutions/ConcatenationOfArray.cpp) | Array Allocation | Accepted |
-| 12 | **Add Two Integers** (#2235) | [Solution](./solutions/AddTwoIntegers.cpp) | Basic Arithmetic | Accepted |
-
+| # | Problem Title | Pattern / Approach | Time | Space |
+|---|---|---|---|---|
+| 0088 | Merge Sorted Array | Two Pointers (Backwards 3-Pointer) | $\mathcal{O}(M + N)$ | $\mathcal{O}(1)$ |
+| 0392 | Is Subsequence | Two Pointers (Two Strings) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
+| 0125 | Valid Palindrome | Two Pointers (Opposite Ends) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
+| 0283 | Move Zeroes | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
+| 0026 | Remove Duplicates from Sorted Array | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
+| 0027 | Remove Element | Two Pointers (Read/Write) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
+| 1929 | Concatenation of Array | Array Iteration / `vector::insert` | $\mathcal{O}(N)$ | $\mathcal{O}(N)$ |
+| 2235 | Add Two Integers | Basic Arithmetic | $\mathcal{O}(1)$ | $\mathcal{O}(1)$ |
 ---
 
