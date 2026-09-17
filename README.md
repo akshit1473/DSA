@@ -6,6 +6,7 @@
 
 | # | Problem Title | Pattern / Approach | Time | Space |
 |---|---|---|---|---|
+| 0011|Container With Most Water|Two Pointers (Opposite Ends)|$\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
 | 0088 | Merge Sorted Array | Two Pointers (Backwards 3-Pointer) | $\mathcal{O}(M + N)$ | $\mathcal{O}(1)$ |
 | 0392 | Is Subsequence | Two Pointers (Two Strings) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
 | 0125 | Valid Palindrome | Two Pointers (Opposite Ends) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ |
